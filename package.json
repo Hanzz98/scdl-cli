@@ -1,0 +1,16 @@
+{
+  "name": "scdl-cli",
+  "version": "1.0.0",
+  "description": "Soundcloud downloader",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-id3": "^0.2.6"
+  },
+  "keywords": ["soundcloud", "downloader", "music"],
+  "author": "Hann Universe",
+  "license": "MIT"
+}
